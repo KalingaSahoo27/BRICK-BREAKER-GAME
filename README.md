@@ -23,9 +23,3 @@
 ### Prerequisites
 - Java installed (Java 8+ recommended).
 
-### Steps
-
-1️⃣ Clone the repository:
-```bash
-git clone https://github.com/yourusername/breakout-ball.git
-cd breakout-ball
